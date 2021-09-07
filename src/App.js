@@ -46,7 +46,7 @@ function App() {
         <p id="author">- {author}</p>
 
         <div className="tweetBtn">
-        <a id="tweet-quote" style={{backgroundColor: randomColor}} href={encodeURI(`http://www.twitter.com/intent/tweet?text=${currentQuote} -${author}`)}><FontAwesomeIcon icon={faTwitter}/></a>
+        <a id="tweet-quote" style={{backgroundColor: randomColor}} href={encodeURI(`http://www.twitter.com/intent/tweet?text=${currentQuote} -${author}`)}><FontAwesomeIcon icon={faTwitter}/></a>ra
         <button id="new-quote" style={{backgroundColor: randomColor}} onClick={handleClick}>GenerateQuote</button>
         </div>
         </div>
