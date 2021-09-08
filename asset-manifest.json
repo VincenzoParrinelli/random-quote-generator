@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/random-quote-generator/index.html/static/css/main.5fb68692.chunk.css",
-    "main.js": "/random-quote-generator/index.html/static/js/main.054b4dd1.chunk.js",
-    "main.js.map": "/random-quote-generator/index.html/static/js/main.054b4dd1.chunk.js.map",
-    "runtime-main.js": "/random-quote-generator/index.html/static/js/runtime-main.ba6733df.js",
-    "runtime-main.js.map": "/random-quote-generator/index.html/static/js/runtime-main.ba6733df.js.map",
-    "static/js/2.93d9cbc5.chunk.js": "/random-quote-generator/index.html/static/js/2.93d9cbc5.chunk.js",
-    "static/js/2.93d9cbc5.chunk.js.map": "/random-quote-generator/index.html/static/js/2.93d9cbc5.chunk.js.map",
-    "static/js/3.ddca5d72.chunk.js": "/random-quote-generator/index.html/static/js/3.ddca5d72.chunk.js",
-    "static/js/3.ddca5d72.chunk.js.map": "/random-quote-generator/index.html/static/js/3.ddca5d72.chunk.js.map",
-    "index.html": "/random-quote-generator/index.html/index.html",
-    "static/css/main.5fb68692.chunk.css.map": "/random-quote-generator/index.html/static/css/main.5fb68692.chunk.css.map",
-    "static/js/2.93d9cbc5.chunk.js.LICENSE.txt": "/random-quote-generator/index.html/static/js/2.93d9cbc5.chunk.js.LICENSE.txt"
+    "main.css": "/random-quote-generator/static/css/main.5fb68692.chunk.css",
+    "main.js": "/random-quote-generator/static/js/main.054b4dd1.chunk.js",
+    "main.js.map": "/random-quote-generator/static/js/main.054b4dd1.chunk.js.map",
+    "runtime-main.js": "/random-quote-generator/static/js/runtime-main.4fea48e5.js",
+    "runtime-main.js.map": "/random-quote-generator/static/js/runtime-main.4fea48e5.js.map",
+    "static/js/2.93d9cbc5.chunk.js": "/random-quote-generator/static/js/2.93d9cbc5.chunk.js",
+    "static/js/2.93d9cbc5.chunk.js.map": "/random-quote-generator/static/js/2.93d9cbc5.chunk.js.map",
+    "static/js/3.ddca5d72.chunk.js": "/random-quote-generator/static/js/3.ddca5d72.chunk.js",
+    "static/js/3.ddca5d72.chunk.js.map": "/random-quote-generator/static/js/3.ddca5d72.chunk.js.map",
+    "index.html": "/random-quote-generator/index.html",
+    "static/css/main.5fb68692.chunk.css.map": "/random-quote-generator/static/css/main.5fb68692.chunk.css.map",
+    "static/js/2.93d9cbc5.chunk.js.LICENSE.txt": "/random-quote-generator/static/js/2.93d9cbc5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba6733df.js",
+    "static/js/runtime-main.4fea48e5.js",
     "static/js/2.93d9cbc5.chunk.js",
     "static/css/main.5fb68692.chunk.css",
     "static/js/main.054b4dd1.chunk.js"
